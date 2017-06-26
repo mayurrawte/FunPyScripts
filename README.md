@@ -10,6 +10,6 @@ Usage:
 
     cd FunPyScripts
 
-    python GetOldSong.py
+    python GetOldSongs.py
   
   
